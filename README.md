@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <style>
-    div{
-      background-color: brown;
-    }
-  </style>
-</head>
-<body>
 
-  <div>
-      ssss
-  </div>
+<div style="background-color: rgb(255, 88, 88); color: white; font-size: 18px; padding: 18px; margin: 20px 0;">
+      ! Octokit到底怎么在vue里面用啊
+      <img width="50" src="https://pic1.imgdb.cn/item/6339077116f2c2beb1a55426.jpg" alt="呐喊">
+</div>
 
 ## 👋 你好，我是@影歌Shadowsong
 
@@ -23,10 +14,3 @@
 
 - #### Q: 简单讲讲你现在的技术栈
   Node.js开发(express.js，koa.js，NestJS); Java web应用开发(Spring Boot，Spring MVC); RESTful风格接口; HTML/CSS原生开发，React/Vue应用开发; 了解MongoDB，MySQL数据库基本使用; 
-
-</body>
-</html>
-<!---
-chokeberry204/chokeberry204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
