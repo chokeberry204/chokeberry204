@@ -10,3 +10,4 @@
   Node.js开发(express.js，koa.js，NestJS); Java web应用开发(Spring Boot，Spring MVC)，RESTful风格接口; HTML/CSS原生开发，React/Vue应用开发; 了解MongoDB，MySQL数据库基本使用;
 
 - #### Q: 随便说点什么
+  太弱小了，没有力量（；´д｀）ゞ
